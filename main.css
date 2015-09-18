@@ -101,7 +101,7 @@ body{
 	text-decoration: underline;
 }
 #main_section article{
-	background: linear-gradient(to right, darkgray, black);
+	background: linear-gradient(to right, darkgray, #555555);
 	/*background: lightgray;*/
 	border: 1px solid #006600;
 	padding: 20px;
@@ -161,5 +161,5 @@ aside article{
 
 @font-face {
     font-family: PCBius, sans-serif;
-    src: url('https://raw.githubusercontent.com/MinesaeHiromu/MinesaeHiromu.github.io/master/font/PCBius.ttf');
+    src: url('https://raw.githubusercontent.com/MinesaeHiromu/MinesaeHiromu.github.io/master/fonts/PCBius.ttf');
 }
