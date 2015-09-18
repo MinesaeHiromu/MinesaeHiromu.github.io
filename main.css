@@ -3,8 +3,8 @@
 	padding: 0px;
 }
 h1{
-	font: bold 20px PCBius;
-	font-family: PCBius;
+	font: bold 20px "PCBius", sans-serif;
+	font-family: PCBius, sans-serif;
 }
 h2{
 	font: bold 14px Tahoma;
@@ -159,6 +159,6 @@ aside article{
 }
 
 @font-face {
-    font-family: 'PCBius', sans-serif;
+    font-family: PCBius, sans-serif;
     src: url('https://raw.githubusercontent.com/MinesaeHiromu/MinesaeHiromu.github.io/master/font/PCBius.ttf');
 }
