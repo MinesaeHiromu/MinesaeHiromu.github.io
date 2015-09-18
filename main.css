@@ -39,7 +39,7 @@ hgroup{
 body{
 	background: black;
 	background: radial-gradient(#111111, black);
-	/*background-image: url('http://fc07.deviantart.net/fs32/i/2008/219/c/d/Hex___Green_by_turnip_stew.jpg');*/
+	/*background-image: url('');*/
 	width: 100%;
 	display: -webkit-box;
 	-webkit-box-pack: center;
@@ -54,7 +54,7 @@ body{
 #top_header{
 	color:#FFFFFF;
 	background: darkgray;
-	background-image: url('https://raw.githubusercontent.com/MinesaeHiromu/MinesaeHiromu.github.io/master/images/Federation%20Banner.png');
+	background-image: url('../img/Federation%20Banner.png');
 	border: 3px solid #006600;
 	padding: 80px 20px;
 }
@@ -75,7 +75,7 @@ body{
 	-webkit-box-orient: horizontal;
 }
 #main_section{
-	background: linear-gradient(#AADDAA, #447744);
+	background: linear-gradient(#66AA66, #447744);
 	/*background: #88BB88;*/
 	border: 1px solid #006600;
 	-webkit-box-flex: 1;
@@ -112,7 +112,7 @@ body{
 	width: 220px;
 	margin: 20px 0px;
 	padding: 30px;
-	background: linear-gradient(#AADDAA, #447744);
+	background: linear-gradient(#66AA66, #447744);
 	/*background: #669966; //#88BB88*/
 }
 #side_news a:link{
@@ -161,5 +161,5 @@ aside article{
 
 @font-face {
     font-family: PCBius, sans-serif;
-    src: url('https://raw.githubusercontent.com/MinesaeHiromu/MinesaeHiromu.github.io/master/fonts/PCBius.ttf');
+    src: url('../fonts/PCBius.ttf');
 }
