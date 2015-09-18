@@ -7,7 +7,7 @@ h1{
 }
 h2{
 	font: bold 14px Tahoma;
-	padding-bottom 10px;
+	/*padding-bottom 10px;*/
 }
 h4{
 	font: bold 16px Tahoma;
@@ -28,8 +28,12 @@ a:active{
 	color:#CCCC99;
 	text-decoration: underline;
 }
-header, section, footer, aside, nav, article, hgroup{
+header, section, footer, aside, nav, article{
 	display: block;
+}
+hgroup{
+	display: block;
+	padding-bottom 10px;
 }
 body{
 	background: black;
