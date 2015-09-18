@@ -106,6 +106,9 @@ body{
 	padding: 20px;
 	margin-bottom: 15px;
 }
+#main_section article p{
+	text-align: center;
+}
 #side_news{
 	border: 1px solid #006600;
 	width: 220px;
