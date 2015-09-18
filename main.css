@@ -3,7 +3,7 @@
 	padding: 0px;
 }
 h1{
-	/*font: bold 20px "PCBius", sans-serif;*/
+	font: normal 20px "PCBius", sans-serif;
 	font-family: PCBius, sans-serif;
 }
 h2{
@@ -162,4 +162,6 @@ aside article{
 @font-face {
     font-family: PCBius, sans-serif;
     src: url('../fonts/PCBius.ttf');
+	font-weight: normal;
+	font-style: normal;
 }
