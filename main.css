@@ -78,7 +78,9 @@ body{
 	/*background: #88BB88;*/
 	border: 1px solid #006600;
 	-webkit-box-flex: 1;
-	margin: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
 	padding: 20px;
 }
 #main_section a:link{
