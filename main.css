@@ -144,6 +144,9 @@ body{
 #the_footer li{
 	list-style: none;
 }
+#the_footer p{
+	text-align: right;
+}
 #centered_image{
 	text-align: center;
 }
