@@ -150,9 +150,6 @@ body{
 article p{
 	font: 14px Tahoma;
 }
-article img{
-	text-align: center;
-}
 article footer{
 	text-align: right;
 	color: #999999;
@@ -165,12 +162,11 @@ aside article{
 	font: 14px Tahoma;
 }
 
-@font-face {
-    font-family: PCBius, sans-serif;
-    src: 
-	local('PCBius'),
-	url('../fonts/PCBius.ttf')
-	format('truetype');
-	font-weight: normal;
-	font-style: normal;
+@font-face{
+    font-family: 'PCBius', sans-serif;
+    src: url('fonts/PCBius.ttf') format('truetype');
+	/*src: local('@'),
+	  ;*/
+	/*font-weight: normal;
+	font-style: normal;*/
 }
