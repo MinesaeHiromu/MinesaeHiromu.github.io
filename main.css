@@ -147,14 +147,11 @@ body{
 #the_footer p{
 	text-align: right;
 }
-#centered_image{
-	text-align: center;
-}
-#centered_element{
-	text-align: center;
-}
 article p{
 	font: 14px Tahoma;
+}
+article img{
+	text-align: center;
 }
 article footer{
 	text-align: right;
