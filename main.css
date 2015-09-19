@@ -149,7 +149,9 @@ body{
 }
 article p{
 	font: 14px Tahoma;
-	border-top: 1px solid #AAAAAA;
+	border-top: 1px solid #CCCCCC;
+	padding-top: 20px;
+	margin-top: 20px;
 }
 article footer{
 	text-align: right;
