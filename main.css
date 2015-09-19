@@ -144,6 +144,12 @@ body{
 #the_footer li{
 	list-style: none;
 }
+#centered_image{
+	text-align: center;
+}
+#centered_element{
+	text-align: center;
+}
 article p{
 	font: 14px Tahoma;
 }
