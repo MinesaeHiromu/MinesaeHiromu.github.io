@@ -1,10 +1,11 @@
 *{
 	margin: 0px;
 	padding: 0px;
+	font-family: 'Dosis', sans-serif;
 }
 h1{
 	/*font: normal 20px "PCBius", sans-serif;*/
-	font-family: 'PCBius', sans-serif;
+	font-family: 'Armata', sans-serif;
 }
 h2{
 	font: bold 14px Tahoma;
@@ -166,10 +167,14 @@ aside article{
 }
 
 @font-face{
+	font-family: 'Armata', sans-serif;
+}
+@font-face{
+	font-family: 'Dosis', sans-serif;
+}
+
+/*@font-face{
     font-family: 'PCBius', sans-serif;
     src: url('fonts/PCBius.ttf') format('truetype');
-	/*src: local('@'),
-	  ;*/
-	/*font-weight: normal;
-	font-style: normal;*/
-}
+	src: local('@'),
+}*/
