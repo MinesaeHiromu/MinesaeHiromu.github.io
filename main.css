@@ -9,13 +9,15 @@ h1{
 }
 h2{
 	font-family: 'Dosis', sans-serif;
-	font-size: bold 14px;
+	font-size: 14px;
+	font-weight: bold;
 	/*font: bold 14px Tahoma;*/
 	/*padding-bottom 10px;*/
 }
 h4{
 	font-family: 'Dosis', sans-serif;
-	font-size: bold 20px;
+	font-size: 24px;
+	font-weight: bold;
 	/*font: bold 16px Tahoma;*/
 }
 a:link{
@@ -74,7 +76,8 @@ body{
 	list-style: none;
 	padding: 5px;
 	font-family: 'Dosis', sans-serif;
-	font-size: bold 14px;
+	font-size: 14px;
+	font-weight: bold;
 	/*font: bold 14px Tahoma;*/
 }
 #new_div{
@@ -174,6 +177,7 @@ aside article{
 	margin: 0px;
 	font-family: 'Dosis', sans-serif;
 	font-size: 18px;
+	font-weight: bold;
 	/*font: 14px Tahoma;*/
 }
 
