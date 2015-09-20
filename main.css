@@ -5,14 +5,17 @@
 h1{
 	/*font: normal 20px "PCBius", sans-serif;*/
 	font-family: 'Armata', sans-serif;
+	font-size: 20px;
 }
 h2{
 	font-family: 'Dosis', sans-serif;
+	font-size: bold 14px;
 	/*font: bold 14px Tahoma;*/
 	/*padding-bottom 10px;*/
 }
 h4{
 	font-family: 'Dosis', sans-serif;
+	font-size: bold 20px;
 	/*font: bold 16px Tahoma;*/
 }
 a:link{
@@ -71,6 +74,7 @@ body{
 	list-style: none;
 	padding: 5px;
 	font-family: 'Dosis', sans-serif;
+	font-size: bold 14px;
 	/*font: bold 14px Tahoma;*/
 }
 #new_div{
@@ -141,8 +145,9 @@ body{
 	text-align: center;
 	padding: 20px;
 	border-top: 2px solid #006600;
-	color: #333333;
+	color: #666666;
 	font-family: 'Dosis', sans-serif;
+	font-size: 14px;
 	/*font: 14px Tahoma;*/
 }
 #the_footer li{
@@ -153,6 +158,7 @@ body{
 }
 article p{
 	font-family: 'Dosis', sans-serif;
+	font-size: 14px;
 	/*font: 14px Tahoma;*/
 	border-top: 1px solid #DDDDDD;
 	padding-top: 20px;
@@ -164,10 +170,10 @@ article footer{
 }
 aside article{
 	border-top: 1px solid #666666;
-	padding: 0px;
-	margin-top: 10px;
-	margin-bottom: 0px;
+	padding: 10px 0px;
+	margin: 0px;
 	font-family: 'Dosis', sans-serif;
+	font-size: 14px;
 	/*font: 14px Tahoma;*/
 }
 
