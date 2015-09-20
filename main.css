@@ -3,7 +3,6 @@
 	padding: 0px;
 }
 h1{
-	/*font: normal 20px "PCBius", sans-serif;*/
 	font-family: 'Armata', sans-serif;
 	font-size: 30px;
 }
@@ -11,14 +10,11 @@ h2{
 	font-family: 'Dosis', sans-serif;
 	font-size: 20px;
 	font-weight: bold;
-	/*font: bold 14px Tahoma;*/
-	/*padding-bottom 10px;*/
 }
 h4{
 	font-family: 'Dosis', sans-serif;
 	font-size: 24px;
 	font-weight: bold;
-	/*font: bold 16px Tahoma;*/
 }
 a:link{
 	color:#FFFFFF;
@@ -41,7 +37,6 @@ header, section, footer, aside, nav, article{
 }
 hgroup{
 	display: block;
-	/*padding-bottom 10px;*/
 }
 body{
 	background: black;
@@ -68,7 +63,6 @@ body{
 #top_menu{
 	border: black;
 	background: linear-gradient(#006600, #003300);
-	/*background: #006600;*/
 	color: white;
 }
 #top_menu li{
@@ -76,9 +70,8 @@ body{
 	list-style: none;
 	padding: 5px;
 	font-family: 'Dosis', sans-serif;
-	font-size: 14px;
+	font-size: 20px;
 	font-weight: bold;
-	/*font: bold 14px Tahoma;*/
 }
 #new_div{
 	display: -webkit-box;
@@ -86,7 +79,6 @@ body{
 }
 #main_section{
 	background: linear-gradient(#66AA66, #447744);
-	/*background: #88BB88;*/
 	border: 1px solid #006600;
 	-webkit-box-flex: 1;
 	margin-top: 20px;
@@ -112,7 +104,6 @@ body{
 }
 #main_section article{
 	background: linear-gradient(to right, darkgray, #555555);
-	/*background: lightgray;*/
 	border: 1px solid #006600;
 	padding: 20px;
 	margin-bottom: 15px;
@@ -123,7 +114,6 @@ body{
 	margin: 20px 0px;
 	padding: 30px;
 	background: linear-gradient(#66AA66, #447744);
-	/*background: #669966; //#88BB88*/
 }
 #side_news a:link{
 	color:#0000CC;
@@ -151,7 +141,6 @@ body{
 	color: #666666;
 	font-family: 'Dosis', sans-serif;
 	font-size: 14px;
-	/*font: 14px Tahoma;*/
 }
 #the_footer li{
 	list-style: none;
@@ -162,7 +151,6 @@ body{
 article p{
 	font-family: 'Dosis', sans-serif;
 	font-size: 18px;
-	/*font: 14px Tahoma;*/
 	border-top: 1px solid #DDDDDD;
 	padding-top: 20px;
 	margin-top: 20px;
@@ -177,7 +165,6 @@ aside article{
 	margin: 0px;
 	font-family: 'Dosis', sans-serif;
 	font-size: 16px;
-	/*font: 14px Tahoma;*/
 }
 
 @font-face{
