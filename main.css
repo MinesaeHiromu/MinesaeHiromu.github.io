@@ -1,18 +1,19 @@
 *{
 	margin: 0px;
 	padding: 0px;
-	font-family: 'Dosis', sans-serif;
 }
 h1{
 	/*font: normal 20px "PCBius", sans-serif;*/
 	font-family: 'Armata', sans-serif;
 }
 h2{
-	font: bold 14px Tahoma;
+	font-family: 'Dosis', sans-serif;
+	/*font: bold 14px Tahoma;*/
 	/*padding-bottom 10px;*/
 }
 h4{
-	font: bold 16px Tahoma;
+	font-family: 'Dosis', sans-serif;
+	/*font: bold 16px Tahoma;*/
 }
 a:link{
 	color:#FFFFFF;
@@ -69,7 +70,8 @@ body{
 	display: inline-block;
 	list-style: none;
 	padding: 5px;
-	font: bold 14px Tahoma;
+	font-family: 'Dosis', sans-serif;
+	/*font: bold 14px Tahoma;*/
 }
 #new_div{
 	display: -webkit-box;
@@ -140,7 +142,8 @@ body{
 	padding: 20px;
 	border-top: 2px solid #006600;
 	color: #333333;
-	font: 14px Tahoma;
+	font-family: 'Dosis', sans-serif;
+	/*font: 14px Tahoma;*/
 }
 #the_footer li{
 	list-style: none;
@@ -149,7 +152,8 @@ body{
 	text-align: right;
 }
 article p{
-	font: 14px Tahoma;
+	font-family: 'Dosis', sans-serif;
+	/*font: 14px Tahoma;*/
 	border-top: 1px solid #DDDDDD;
 	padding-top: 20px;
 	margin-top: 20px;
@@ -163,7 +167,8 @@ aside article{
 	padding: 0px;
 	margin-top: 10px;
 	margin-bottom: 0px;
-	font: 14px Tahoma;
+	font-family: 'Dosis', sans-serif;
+	/*font: 14px Tahoma;*/
 }
 
 @font-face{
